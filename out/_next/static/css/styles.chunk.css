@@ -1,0 +1,14 @@
+p {
+  color: #64dada;
+  font-size: 20px; }
+
+*, html, body {
+  padding: 0;
+  margin: 0; }
+
+.Layout {
+  background: teal;
+  padding: 15px; }
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/
